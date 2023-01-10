@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSm+1ft+d0c3opiwzQsgHsZe4gzANP6mcGr/v+sF1LhSFHk7U8Ny1/WOxwlarZkwzNF/qhGI3Sm/RFEWIsYD6w==",
+  "success": true,
+  "projectFilePath": "/Users/zach/Projects/test/test/QuestPlus.csproj",
+  "expectedPackageFiles": [
+    "/Users/zach/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

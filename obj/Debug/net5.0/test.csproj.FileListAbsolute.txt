@@ -1,0 +1,17 @@
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.csproj.AssemblyReference.cache
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.AssemblyInfo.cs
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.csproj.CoreCompileInputs.cache
+/Users/zach/Projects/test/test/bin/Debug/net5.0/test.deps.json
+/Users/zach/Projects/test/test/bin/Debug/net5.0/test.runtimeconfig.json
+/Users/zach/Projects/test/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/Users/zach/Projects/test/test/bin/Debug/net5.0/test.dll
+/Users/zach/Projects/test/test/bin/Debug/net5.0/ref/test.dll
+/Users/zach/Projects/test/test/bin/Debug/net5.0/test.pdb
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.dll
+/Users/zach/Projects/test/test/obj/Debug/net5.0/ref/test.dll
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.pdb
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.genruntimeconfig.cache
+/Users/zach/Projects/test/test/bin/Debug/net5.0/MathNet.Numerics.dll
+/Users/zach/Projects/test/test/obj/Debug/net5.0/test.csproj.CopyComplete
